@@ -10,14 +10,7 @@
 |         5| 18650 li-ion batterij   |    batterij      |       nieuw    |       2.69       |   2   |    5,38     |
 |         6|  18650 batterij houder dubbel  |       houder     | nieuw          |     1,24         |   1   |  1,24       |
 |         7| Xtar mc11 li-ion mini batterij lader   |   oplader     |       nieuw    |    3,72          |    1  |     3,72    |
-|         8|    |            |           |              |      |         |
-|         9|    |            |           |              |      |         |
-|        10|    |            |           |              |      |         |
-|        11|    |            |           |              |      |         |
-|        12|    |            |           |              |      |         |
-|        13|    |            |           |              |      |         |
-|        14|    |            |           |              |      |         |
-|        15|    |            |           |              |      |         |
-|         1|    |            |           |              |      |         |
-|         1|    |            |           |              |      |         |
-|         1|    |            |           |              |      |         |
+|         8|   breadboard |  breadboard          |     recup      |    3,62          |    1  |   3,62      |
+|         9|  40 pins header male  |  montage          |  nieuw         |       0,33       |   1   |    0,33     |
+|        10| 12 pins header female   |   sensor         |    nieuw       |    0,26          | 1     |   0,26      |
+|        totaal| 48,74    |
