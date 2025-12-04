@@ -13,4 +13,4 @@
 |         8|   breadboard |  breadboard          |     recup      |    3,62          |    1  |   3,62      |
 |         9|  40 pins header male  |  montage          |  nieuw         |       0,33       |   1   |    0,33     |
 |        10| 12 pins header female   |   sensor         |    nieuw       |    0,26          | 1     |   0,26      |
-|        totaal| 48,74    |
+|        totaal| 48,74 euro  |
