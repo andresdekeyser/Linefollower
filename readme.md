@@ -7,21 +7,21 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
   
 ## specifications
 
-microcontroller:
+microcontroller: esp32 nano
 
-motors: 
+motors: 	JGA12-N20-50 DC-motoren  1/50
 
-h-bridge:
+h-bridge: DVR8833
 
-sensors:
+sensors: 	8x ir lijn sensor
 
-batteries:
+batteries:	18650 li-ion batterij
 
-wireless communication:
+wireless communication: esp 32 
 
-distance sensor - motors:
+distance sensor - motors: 7cm
 
 weight:
 
-speed: 
+speed: 0,35 m/s
 
